@@ -1,2 +1,0 @@
-# exercising the OOP PHP
- 
